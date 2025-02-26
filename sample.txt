@@ -1,0 +1,7 @@
+Hey iam a text file
+
+Some changes
+
+More changes
+
+New Commit 
