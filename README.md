@@ -2,8 +2,6 @@
 
 ## Overview
 
-// ...existing content...
-
 ## Code in groot.mjs
 
 The `groot.mjs` file contains the main logic for the Groot project. It includes the following key components:
@@ -11,13 +9,6 @@ The `groot.mjs` file contains the main logic for the Groot project. It includes 
 - **Initialization**: Sets up the necessary configurations and dependencies.
   - Loads environment variables.
   - Configures logging and error handling.
-- **Main Functionality**: Implements the core features and functions of the project.
-  - Processes input data.
-  - Executes the main algorithm.
-  - Handles output generation.
-- **Helper Functions**: Contains utility functions to support the main functionality.
-  - Utility functions for data manipulation.
-  - Helper functions for API calls.
 - **Exported Modules**: Exports the main functions and classes for use in other parts of the project.
   - `init()`: Initializes the project.
   - `add(file)`: Adds a file to the staging area.
@@ -65,5 +56,3 @@ Ensure that all dependencies are installed and the environment variables are pro
   ```bash
   node groot.mjs show <commitHash>
   ```
-
-// ...existing content...
